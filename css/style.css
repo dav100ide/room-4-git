@@ -21,6 +21,10 @@
 /* =================
       footer
 ================== */
+footer {
+  background-color: blue;
+  color: #fff;
+}
 .container-footer {
   display: flex;
   justify-content: space-between;
