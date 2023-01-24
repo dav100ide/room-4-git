@@ -2,18 +2,37 @@
       reset
 ================== */
 * {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
 }
 /* =================
       commons (etc)
 ================== */
+.fluid-img {
+   max-width: 100%;
+   height: auto;
+}
 
 /* =================
       header
 ================== */
+header {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background-color: lightskyblue;
+   padding-inline: 1rem;
+}
 
+header img {
+   width: 8rem;
+}
+
+.header-text {
+   font-size: 2rem;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 /* =================
       main
 ================== */
@@ -22,9 +41,9 @@
    section alessandro
 ===================== */
 .container {
-  text-align: center;
-  background-color: greenyellow;
-  padding: 10px;
+   text-align: center;
+   background-color: greenyellow;
+   padding: 10px;
 }
 /* =================
       footer
