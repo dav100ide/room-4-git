@@ -21,3 +21,11 @@
 /* =================
       footer
 ================== */
+.container-footer {
+  display: flex;
+  justify-content: space-between;
+}
+.footer-bottom {
+  margin: auto;
+  color: gray;
+}
