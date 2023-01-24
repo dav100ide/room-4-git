@@ -13,7 +13,13 @@
 /* =================
       main
 ================== */
-
+/* ====================
+   section valentina
+===================== */
+.section-valentina {
+  background-color: aquamarine;
+  text-align: center;
+}
 /* ====================
    section alessandro
 ===================== */
