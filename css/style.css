@@ -46,11 +46,25 @@ header img {
 /* ====================
    section alessandro
 ===================== */
+<<<<<<< HEAD
 .container {
    text-align: center;
    background-color: greenyellow;
    padding: 10px;
 }
+=======
+
+/* ====================
+   section andrea
+===================== */
+#section-andrea {
+    padding: 1.25rem;
+    background-color: beige;
+    text-align: center;
+    border: 1px solid yellow;
+}
+
+>>>>>>> origin/feat-section-andrea
 /* =================
       footer
 ================== */
