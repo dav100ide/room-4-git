@@ -18,6 +18,16 @@
    section alessandro
 ===================== */
 
+/* ====================
+   section andrea
+===================== */
+#section-andrea {
+    padding: 1.25rem;
+    background-color: beige;
+    text-align: center;
+    border: 1px solid yellow;
+}
+
 /* =================
       footer
 ================== */
